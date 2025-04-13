@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Anup</h1>
-<h3 align="center">A machine learning enthusiast with a passion for research.</h3>
+<h1 align="center">Hi 👋, I'm Atharv</h1>
+<h3 align="center">A web development enthusiast passionate about building user-friendly digital experiences.</h3>
 
-- 🌱 I’m currently learning **Machine Learning libraries, Computer vison, Remote sensing devices, Human Behavior Psychology**
+- 🌱 I’m currently learning **Full-Stack Web Development, JavaScript Frameworks, PHP, MySQL, and modern UI/UX design practices**
 
-- 📫 How to reach me **anupbhat67@gmail.com**
+- 📫 How to reach me **atharvpednekar09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anupbhat30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupbhat30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anup-bhat-760361149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anup-bhat-760361149/" height="30" width="40" /></a>
-<a href="https://instagram.com/anup_bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anup_bhat" height="30" width="40" /></a>
+<a href="https://twitter.com/pednekar_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupbhat30" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/atharv-pednekar-9687b6289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anup-bhat-760361149/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/atharv_pednekar06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anup_bhat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
